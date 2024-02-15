@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ### Contact 📞 
 - LinkedIn: https://www.linkedin.com/in/marcgoos/
-- Email: use my first name @ my last name `.dev`. I respond faster to e-mails.
+- Email: use my first name @ my last name `.dev` - I respond faster to e-mails.
