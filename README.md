@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - Email: use my first name @ my last name `.dev` - I respond faster to e-mails.
 
 ### Deployed work
-My deployed work is, as you might imagine, mostly professional. Here's a selection of some **tiny** projects that I built to learn new things. You'll find all the code repositories on my github profile:
+My deployed work is, as you might imagine, mostly professional. Here's a selection of some **tiny** projects that I built to learn new things. You'll find all the code for these project in public repositories on my github profile:
 
 - Dashboard to visualize data, including chart.js and tables, fully responsive - https://d4risgryuo87c.cloudfront.net/
 - My personal website (note: work in progress..) - https://m-rc.nl/
