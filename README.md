@@ -51,4 +51,4 @@ My deployed work is, as you might imagine, mostly professional. Here's a selecti
 - Dashboard to visualize data, including chart.js and tables, fully responsive - https://d4risgryuo87c.cloudfront.net/
 - My personal website (note: work in progress..) - https://m-rc.nl/
 - Markdown blog built in Angular - https://d1c4tebsr2ti4f.cloudfront.net
-- Project built around SWAPI, the Star Wars API (MUI, React) - dc96s2y1hkfuo.cloudfront.net
+- Project built around SWAPI, the Star Wars API (MUI, React) - https://dc96s2y1hkfuo.cloudfront.net
