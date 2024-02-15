@@ -1,4 +1,4 @@
-### Hi there, I'm Marc Goossens 👋 <a href="https://www.linkedin.com/in/marcgoos/"><img height="20" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>
+## Hi there, I'm Marc Goossens 👋 <a href="https://www.linkedin.com/in/marcgoos/"><img height="20" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>
 
 <!--
 **m-goos/m-goos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Full stack developer: Front-end, Back-end, infra / DevOps
 - Web-tech enthusiast, love building and trying things
 
-#### Professional experience
+### Professional experience
 
 - **Frontend**
   - React, NextJS, Gatsby, Angular, Nx
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   - Terraform, AWS CDK
   - Gitlab runners, Azure Pipelines, Jenkins (2x certified), Github actions, AWS Codepipeline, Heroku
 
-#### Education
+### Education
 - BSc Systems Engineering (SEPAM - IT Track) @ Delft University of Technology
 - MSc Entrepreneurship @ University of Amsterdam - Business School
 
