@@ -30,11 +30,10 @@ Here are some ideas to get you started:
   - NodeJS, Express
   - Cloudflare workers, Cloudflare functions
   - AWS API Gateway, lambdas
-- **Infra**
+- **DevOps / infra / CICD**
   - 2x AWS certified: Cloud Practitioner & Cloud Developer
   - **Docker** / AWS EKS - ECS - ECR / Kubernetes
   - Terraform, AWS CDK
-- **CI/CD**
   - Gitlab runners, Azure Pipelines, Jenkins (2x certified), Github actions, AWS Codepipeline, Heroku
 
 #### Education
