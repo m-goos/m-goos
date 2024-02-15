@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - React, NextJS, Gatsby, Angular, Nx
   - Styling: CSS, SCSS/SASS, TailwindCSS
   - Component libraries: Material UI, Bootstrap, Headless UI (tailwind)
-  - Built in-house component libraries at 3 companies using Storybook
+  - Built **in-house component libraries** at 3 companies using Storybook
   - Testing: Jest, React Testing Library, Playwright - all in TypeScript
 - **Backend**
   - NodeJS, Express
