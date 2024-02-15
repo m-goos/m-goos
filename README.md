@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 - BSc Systems Engineering (SEPAM - IT Track) @ Delft University of Technology
 - MSc Entrepreneurship @ University of Amsterdam - Business School
 
-### 📞 Contact
-- Feel free to reach out via linkedin
-- Alternatively, you can send me an email, use my first name @ my last name `.dev`. I respond faster to e-mails.
+### Contact 📞 
+- LinkedIn: https://www.linkedin.com/in/marcgoos/
+- Email: use my first name @ my last name `.dev`. I respond faster to e-mails.
