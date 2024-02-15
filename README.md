@@ -44,3 +44,11 @@ Here are some ideas to get you started:
 ### Contact 📞 
 - LinkedIn: https://www.linkedin.com/in/marcgoos/
 - Email: use my first name @ my last name `.dev` - I respond faster to e-mails.
+
+### Deployed work
+My deployed work is, as you might imagine, mostly professional. Here's a selection of some **tiny** projects that I built to learn new things. You'll find all the code repositories on my github profile:
+
+- Dashboard to visualize data, including chart.js and tables, fully responsive - https://d4risgryuo87c.cloudfront.net/
+- My personal website (note: work in progress..) - https://m-rc.nl/
+- Markdown blog built in Angular - https://d1c4tebsr2ti4f.cloudfront.net
+- Project built around SWAPI, the Star Wars API (MUI, React) - dc96s2y1hkfuo.cloudfront.net
