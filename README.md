@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - Based in Amsterdam
-- Full stack developer: Front-end developer, Back-end developer, infra / DevOps
+- Full stack developer: Front-end, Back-end, infra / DevOps
+- Web-tech enthusiast, love building and trying things
 
 #### Professional experience
 
