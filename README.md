@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 - Based in Amsterdam
 - Full stack developer: Front-end, Back-end, infra / DevOps
+- Focus on GUIs, strong preference for working 'across the tech stack'
 - Web-tech enthusiast, love building and trying things
 - 🚀 Blog - www.m-rc.nl
+- JavaScript / TypeScript / Python; Terraform
 
 ### Professional experience
 
